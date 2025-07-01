@@ -1,3 +1,7 @@
+Work Calendar Overview
+This shared Work Calendar serves as a central hub for all employees to stay informed about scheduled events, meetings, 
+important deadlines, and company-wide activities.
+
 ## What technologies are used for this project?
 
 This project is built with:
