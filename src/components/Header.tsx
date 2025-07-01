@@ -11,7 +11,7 @@ export const Header = () => {
               <Building2 className="w-6 h-6 text-white" />
             </div>
             <div>
-              <h2 className="text-xl font-bold text-gray-900">Lease for Life</h2>
+              <h2 className="text-xl font-bold text-gray-900">ABC Company</h2>
               <p className="text-sm text-gray-500">Employee Portal</p>
             </div>
           </div>
