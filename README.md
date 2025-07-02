@@ -15,4 +15,4 @@ This project is built with:
 - Tailwind CSS
 
 Project Live at:
-https://waqar088.github.io/Work-Calendar/
+https://waqar-nadeem.github.io/Work-Calendar/
